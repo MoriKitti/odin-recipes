@@ -1,0 +1,31 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: "Lucida Console", "Courier New" ;
+}
+
+h1 {
+    text-align: center;
+}
+
+.sweet-container {
+    text-align: right;
+    margin-right: 100px;
+    
+}
+
+h2 {
+    color: black;
+    display: block;
+    max-width: fit-content;
+    margin-left: auto;
+    background-color: rgb(46, 196, 255);
+    border: black dotted;
+    padding: 5px;
+}
+
+.dessert {
+    display: block;
+    color: rgb(178, 50, 204);
+    margin: 10px, 10px, 0, 0;
+}
